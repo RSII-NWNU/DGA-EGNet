@@ -1,4 +1,4 @@
-<img width="2032" height="1045" alt="image" src="https://github.com/user-attachments/assets/0e69366c-9f36-4c7a-9c5e-bc3c66b349e9" /># DGA-EGNet
+# DGA-EGNet
 Pytorch implementation for 《Difference-Guided Attention and Edge Refinement for Remote Sensing Image Change Detection》
 
 The source code will be made public after the article is accepted.DGA-EGNet
